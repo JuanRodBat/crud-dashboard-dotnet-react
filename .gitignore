@@ -1,0 +1,8 @@
+# .NET
+**/bin/
+**/obj/
+# Node
+**/node_modules/
+# Misc
+.env
+.env.*
