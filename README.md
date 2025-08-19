@@ -89,12 +89,12 @@ La aplicación se ejecutará en:
 ### 🌞 Modo Claro
 
 ![Pantalla CRUD - Claro](screenshoots/CRUD-Light.png)
-![Dashboard Claro](screenshots/Dashboard-Light.png)
+![Dashboard Claro](screenshoots/Dashboard-Light.png)
 
 ### 🌙 Modo Oscuro
 
 ![Pantalla CRUD - Oscuro](screenshoots/CRUD-Dark.png)
-![Dashboard Oscuro](screenshots/Dashboard-Dark.png)
+![Dashboard Oscuro](screenshoots/Dashboard-Dark.png)
 
 ---
 
