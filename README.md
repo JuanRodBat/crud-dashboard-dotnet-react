@@ -6,7 +6,7 @@ Este proyecto es una solución **Full Stack** desarrollada como parte de una pru
 
 ## 🚀 Tecnologías utilizadas
 
-### Backend (.NET 6 - Web API)
+### Backend (.NET 8 - Web API)
 
 * ASP.NET Core Web API
 * Entity Framework Core (Code First, Migrations)
